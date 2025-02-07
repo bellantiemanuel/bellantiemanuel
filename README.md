@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bellantiemanuel
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Arduino
+- 💞️ I’m looking to collaborate with Net Artists
+- 📫 How to reach me: @duchampinion (IG)
+- 😄 Pronouns: Belladonnio
+- ⚡ Fun fact: https://linktr.ee/ebellanti
