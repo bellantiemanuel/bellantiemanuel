@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate with Net Artists
 - 📫 How to reach me: @duchampinion (IG)
 - 😄 Pronouns: Belladonnio
-- ⚡ Fun fact: https://linktr.ee/ebellanti
+- 🗿 Fun fact: Linux enthusiast
+- 🎨 Art: https://linktr.ee/ebellanti
