@@ -33,5 +33,5 @@ Imparto cursos y materias relacionadas con:
 ---
 
 ### 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ebellanti/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat)](https://linktr.ee/ebellanti)
