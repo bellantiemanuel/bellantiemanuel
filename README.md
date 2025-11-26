@@ -4,6 +4,8 @@
 
 Buenos Aires, Argentina
 
+Mi formación combina el mundo del **arte** con la **tecnología**, creando una perspectiva única para el desarrollo de software y la experiencia digital.
+
 ---
 
 ### 👨‍🏫 Docente Universitario
@@ -27,3 +29,9 @@ Imparto cursos y materias relacionadas con:
 - **Posgrado en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
 - **Diseño de Imagen y Sonido (UBA)**
 - **Conservatorio Superior de Música Astor Piazzolla**
+
+---
+
+### 📫 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat)](https://tu-portfolio.com)
