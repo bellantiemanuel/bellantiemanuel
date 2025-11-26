@@ -4,7 +4,7 @@
 
 Buenos Aires, Argentina
 
-Mi formación combina el mundo del **arte** con la **tecnología**, creando una perspectiva única para el desarrollo de software y la experiencia digital.
+Mi formación combina el mundo del **arte** y el **diseño** con la **tecnología**, creando una perspectiva única para el desarrollo de software y la experiencia digital.
 
 ---
 
