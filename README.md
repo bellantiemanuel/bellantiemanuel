@@ -20,9 +20,10 @@ Imparto cursos y materias relacionadas con:
 
 **Herramientas Creativas & Multimedia:**
 - `openFrameworks` `SuperCollider` `JUCE`
-- `Figma` `Adobe Creative Suite` (Photoshop, Illustrator, InDesign, After Effects)
+- `Figma` `Adobe Creative Suite`
 
 ### 🎓 Formación
-- **Licenciatura en Artes Visuales**
-- **Posgrado en Sonido Aplicado a las Artes Digitales**
-- **Full Stack Developer**
+- **Licenciatura en Artes Visuales (UNA Visuales)**
+- **Posgrado en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
+- **Diseño de Imagen y Sonido (UBA)**
+- **Conservatorio Superior de Música Astor Piazzolla**
