@@ -18,7 +18,7 @@ Imparto cursos y materias relacionadas con:
 
 **Lenguajes & Frameworks:**
 - `JavaScript` `TypeScript` `React` `Node.js` `Python` `C++`
-- `PostgreSQL` `MongoDB` `Bootstrap` `Tailwind CSS`
+- `Firestore` `Google Cloud` `Vertex AI`
 
 **Herramientas Creativas & Multimedia:**
 - `openFrameworks` `SuperCollider` `JUCE`
