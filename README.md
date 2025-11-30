@@ -4,25 +4,23 @@
 
 Buenos Aires, Argentina
 
-Mi formación combina el mundo del **arte** con la **tecnología**, creando una perspectiva única para el desarrollo de experiencias digitales.
+Mi formación combina el mundo del **arte** con la **tecnología**. Busco aportar una perspectiva única al desarrollo de experiencias digitales.
 
 ---
 
 ### 👨‍🏫 Docente Universitario
-Imparto cursos y materias relacionadas con:
 - Diseño Gráfico
 - Diseño Multimedia
 - Diseño y Desarrollo Web
 
 ### 💻 Habilidades Técnicas
 
-**Lenguajes & Frameworks:**
-- `JavaScript` `TypeScript` `React` `Node.js` `Python` `C++`
-- `Firestore` `Google Cloud` `Vertex AI`
+**Lenguajes y Frameworks:**
+- `JavaScript` `Python` `React` `Node` `MongoDB` 
+- `C++` `openFrameworks` `SuperCollider` `JUCE`
 
 **Herramientas Creativas & Multimedia:**
-- `openFrameworks` `SuperCollider` `JUCE`
-- `Figma` `Adobe Creative Suite`
+- `Adobe Creative Suite` `Vertex AI` 
 
 ### 🎓 Formación
 - **Licenciatura en Artes Visuales (UNA Visuales)**
