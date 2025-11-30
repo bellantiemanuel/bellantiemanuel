@@ -1,6 +1,6 @@
 # Emanuel Bellanti
 
-**Licenciado en Artes Visuales | Full Stack Developer**
+**Full Stack Developer**
 
 Buenos Aires, Argentina
 
