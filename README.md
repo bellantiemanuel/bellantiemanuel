@@ -16,11 +16,11 @@ Mi formación combina el mundo del **arte** con la **tecnología**, buscando apo
 ### 💻 Habilidades Técnicas
 
 **Lenguajes y Frameworks:**
-- `JavaScript` `Python` `React` `Node` `MongoDB` 
-- `C++` `openFrameworks` `SuperCollider` `JUCE`
+- `JavaScript` `Python` `React` `Node` `PostgreSQL` `MongoDB` 
+- `C++` `openFrameworks` `SuperCollider` `JUCE` `Vertex AI`
 
 **Herramientas Creativas & Multimedia:**
-- `Adobe Creative Suite` `Vertex AI` 
+- `Adobe Creative Suite` `AutoCAD` `Blender`
 
 ### 🎓 Formación
 - **Licenciatura en Artes Visuales (UNA Visuales)**
