@@ -23,10 +23,9 @@ Mi formación combina el mundo del **arte** con la **tecnología**, buscando apo
 - `Adobe Creative Suite` `AutoCAD` `Blender` `OBS Studio` `PowerPoint`
 
 ### 🎓 Formación
-- **Licenciatura en Artes Visuales (UNA Visuales)**
 - **Posgrado en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
+- **Licenciatura en Artes Visuales (UNA Visuales)**
 - **Diseño de Imagen y Sonido (UBA)**
-- **Conservatorio Superior de Música Astor Piazzolla**
 
 ---
 
