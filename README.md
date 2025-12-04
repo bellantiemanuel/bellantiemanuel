@@ -20,7 +20,7 @@ Mi formación combina el mundo del **arte** con la **tecnología**, buscando apo
 - `C++` `openFrameworks` `SuperCollider` `JUCE` `Vertex AI`
 
 **Herramientas Creativas & Multimedia:**
-- `Adobe Creative Suite` `AutoCAD` `Blender`
+- `Adobe Suite` `AutoCAD` `Blender` `OBS Studio` `PowerPoint`
 
 ### 🎓 Formación
 - **Licenciatura en Artes Visuales (UNA Visuales)**
