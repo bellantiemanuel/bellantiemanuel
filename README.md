@@ -4,7 +4,7 @@
 
 Buenos Aires, Argentina
 
-Mi formación combina el mundo del **arte** con la **tecnología**, buscando aportar una perspectiva única al desarrollo de experiencias digitales.
+Mi formación combina el mundo del **arte** con la **tecnología**, buscando aportar una perspectiva única al **desarrollo de experiencias digitales**.
 
 ---
 
