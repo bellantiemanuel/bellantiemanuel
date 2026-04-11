@@ -16,8 +16,9 @@ Mi formación combina el mundo del arte con la tecnología. Busco aportar una mi
 ### 💻 Habilidades Técnicas
 
 **Lenguajes y Frameworks:**
-- `JavaScript` `Python` `React` `Node` `PostgreSQL` `MongoDB` 
-- `C++` `openFrameworks` `SuperCollider` `JUCE` `Vertex AI`
+- `HTML` `CSS` `JavaScript` `React` `Node` `PostgreSQL` `MongoDB` 
+- `C++` `openFrameworks` `JUCE` `SuperCollider`
+- `Python` `MATLAB` `Vertex AI`
 
 **Herramientas Creativas & Multimedia:**
 - `Adobe Creative Suite` `AutoCAD` `Blender` `OBS Studio` `PowerPoint`
