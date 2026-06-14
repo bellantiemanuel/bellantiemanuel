@@ -19,7 +19,8 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 - `HTML` `CSS` `JavaScript` `React` `Node` `PostgreSQL` `MongoDB` 
 - `C++` `openFrameworks` `JUCE` `PureData` `SuperCollider`
 - `Python` `MATLAB` `Vertex AI`
--  `Processing` `Arduino`
+-   `Arduino` `Processing` `Docker`
+-   `Google Cloud Platform` `Amazon Web Services`
 
 **Herramientas Creativas & Multimedia:**
 - `Adobe Creative Suite` `AutoCAD` `Blender` `OBS Studio` `Office`
