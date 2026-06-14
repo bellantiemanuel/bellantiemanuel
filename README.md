@@ -17,15 +17,15 @@ Mi formación combina el mundo del arte con la tecnología. Busco aportar una mi
 
 **Lenguajes y Frameworks:**
 - `HTML` `CSS` `JavaScript` `React` `Node` `PostgreSQL` `MongoDB` 
-- `C++` `openFrameworks` `JUCE` `SuperCollider`
+- `C++` `openFrameworks` `JUCE` `PureData` `SuperCollider`
 - `Python` `MATLAB` `Vertex AI`
 
 **Herramientas Creativas & Multimedia:**
-- `Adobe Creative Suite` `AutoCAD` `Blender` `OBS Studio` `PowerPoint`
+- `Adobe Creative Suite` `AutoCAD` `Blender` `OBS Studio` `Office`
 
 ### 🎓 Formación
-- **Posgrado en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
-- **Licenciatura en Artes Visuales (UNA Visuales)**
+- **Esp. en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
+- **Lic. en Artes Visuales (UNA Visuales)**
 
 ---
 
