@@ -20,10 +20,10 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 - `C++` `openFrameworks` `JUCE` `PureData` `SuperCollider`
 - `Python` `MATLAB` `Vertex AI`
 -   `Arduino` `Processing` `Docker`
--   `Google Cloud Platform` `Amazon Web Services`
+-   `Google Cloud` `AWS`
 
 **Herramientas Creativas & Multimedia:**
-- `Adobe Creative Suite` `AutoCAD` `Blender` `OBS Studio` `Office` `Reaper`
+- `Adobe Suite` `AutoCAD` `Blender` `OBS Studio` `Office` `Reaper`
 
 ### 🎓 Formación
 - **Esp. en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
