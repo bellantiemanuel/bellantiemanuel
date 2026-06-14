@@ -23,7 +23,7 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 -   `Google Cloud` `AWS`
 
 **Herramientas Creativas & Multimedia:**
-- `Adobe Suite` `AutoCAD` `Blender` `OBS Studio` `Office` `Reaper`
+- `Adobe Suite` `AutoCAD` `Blender` `OBS Studio` `Office` `Reaper` `Figma`
 
 ### 🎓 Formación
 - **Esp. en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
