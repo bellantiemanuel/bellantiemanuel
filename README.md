@@ -12,17 +12,21 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 - Diseño Gráfico
 - Diseño Multimedia
 - Diseño y Desarrollo Web
+- Programación
 
 ### 💻 Habilidades Técnicas
 
 **Lenguajes y Frameworks:**
-- `HTML` `CSS` `JavaScript` `React` `Node` `PostgreSQL` `MongoDB` 
+- `HTML` `CSS` `JavaScript` `React` `Node`
+- `SQLite` `PostgreSQL` `MongoDB` 
 - `C#` `C++` `openFrameworks` `JUCE`
-- `Python` `MATLAB` `Vertex AI`
+- `Python` `Assembly` `MATLAB` `Vertex AI` 
 - `Docker` `Google Cloud` `AWS`
 
 **Herramientas Creativas & Multimedia:**
-- `Adobe Suite` `AutoCAD` `Blender` `OBS Studio` `Office` `Reaper` `Figma` `PureData` `SuperCollider` `Processing` `Arduino`
+- `Adobe Suite` `Office` `OBS Studio` `Figma`
+- `Reaper` `PureData` `SuperCollider`
+- `Processing` `Arduino`
 
 ### 🎓 Formación
 - **Esp. en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
