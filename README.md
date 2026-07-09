@@ -29,8 +29,9 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 - `AutoCAD` `Blender` `Processing` `Arduino`
 
 ### 🎓 Formación
-- **Esp. en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
 - **Lic. en Artes Visuales (UNA Visuales)**
+- **Esp. en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
+- **Auxiliar en Programación (TecLab)**
 
 ---
 
