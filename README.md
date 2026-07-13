@@ -19,10 +19,10 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 
 **Lenguajes y Frameworks:**
 - `HTML` `CSS` `JavaScript` `React` `Node`
-- `SQLite` `PostgreSQL` `MongoDB` 
+- `SQLite` `PostgreSQL` `MongoDB` `Firestore`
 - `C#` `C++` `Python` `Assembly`
 - `openFrameworks` `JUCE` `MATLAB`
-- `Google Cloud` `Firebase` `AWS` `Docker` `Git`
+- `Google Cloud` `AWS` `Docker` `Git`
 
 **Herramientas Creativas & Multimedia:**
 - `Adobe Suite` `Office` `Figma` `OBS Studio`
