@@ -25,9 +25,9 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 - `Google Cloud` `AWS` `Docker` `Git`
 
 **Herramientas Creativas & Multimedia:**
-- `Adobe Suite` `Office` `Figma` `OBS Studio`
+- `Adobe Suite` `Office` `Figma` `Blender` `OBS Studio`
 - `Reaper` `PureData` `SuperCollider`
-- `AutoCAD` `Blender` `Processing` `Arduino`
+- `Processing` `Arduino`
 
 ### 🎓 Formación
 - **Lic. en Artes Visuales (UNA Visuales)**
