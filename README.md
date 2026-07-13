@@ -22,7 +22,7 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 - `SQLite` `PostgreSQL` `MongoDB` 
 - `C#` `C++` `Python` `Assembly`
 - `openFrameworks` `JUCE` `MATLAB` `Vertex AI` 
-- `Google Cloud` `AWS` `Docker` 
+- `Google Cloud` `Firebase` `AWS` `Docker` `Git`
 
 **Herramientas Creativas & Multimedia:**
 - `Adobe Suite` `Office` `Figma` `OBS Studio`
