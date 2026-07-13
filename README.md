@@ -33,6 +33,7 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 - **Lic. en Artes Visuales (UNA Visuales)**
 - **Esp. en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
 - **Auxiliar en Programación (Teclab)**
+- **Desarrollador de Aplicaciones Web - Node.js (Talento Tech)**
 
 ---
 
