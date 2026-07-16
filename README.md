@@ -11,7 +11,6 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 ### 👨‍🏫 Docente Universitario
 - Diseño Gráfico
 - Diseño Multimedia
-- Diseño de Imagen y Sonido
 - Diseño y Desarrollo Web
 - Programación
 
