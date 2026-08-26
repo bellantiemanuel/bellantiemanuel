@@ -29,7 +29,7 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 - `PureData` `SuperCollider` `Reaper`
 - `Arduino` `Raspberry`
 - `macOS` `Linux`
-- 
+  
 ### 🎓 Formación
 - **Lic. en Artes Visuales**
 - **Esp. en Sonido Aplicado a las Artes Digitales**
