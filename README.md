@@ -4,7 +4,8 @@
 
 Buenos Aires, Argentina
 
-Mi formación combina el mundo del arte, el diseño y la tecnología. Busco aportar una mirada creativa al desarrollo de experiencias digitales.
+Mi formación combina el mundo del arte, el diseño y la tecnología. 
+Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 
 ---
 
