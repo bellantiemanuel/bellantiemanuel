@@ -1,8 +1,6 @@
 # Emanuel Bellanti
 
-**Full Stack Developer**
-
-Buenos Aires, Argentina
+**Full Stack Developer** 🇦🇷
 
 Mi formación combina el mundo del arte, el diseño y la tecnología. 
 
