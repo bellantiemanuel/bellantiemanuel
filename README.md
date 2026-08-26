@@ -19,20 +19,22 @@ Mi formación combina el mundo del arte, el diseño y la tecnología. Busco apor
 **Lenguajes y Frameworks:**
 - `HTML` `CSS` `JavaScript` `React` `Node`
 - `SQLite` `PostgreSQL` `MongoDB` `Firebase`
-- `C#` `C++` `Python` `Assembly`
+- `C++` `Python` `Assembly`
 - `openFrameworks` `JUCE` `MATLAB`
-- `Google Cloud` `AWS` `Docker` `Git` `OpenCode`
+- `Google Cloud` `AWS` `Docker` `Git`
 
 **Herramientas Creativas & Multimedia:**
-- `Adobe Suite` `Office` `Figma` `Blender` `OBS Studio`
-- `Reaper` `PureData` `SuperCollider`
-- `Processing` `Arduino` `Arch Linux`
-
+- `Adobe Suite` `Office` `Figma`
+- `OBS Studio` `Blender`
+- `PureData` `SuperCollider` `Reaper`
+- `Arduino` `Raspberry`
+- `macOS` `Linux`
+- 
 ### 🎓 Formación
-- **Lic. en Artes Visuales (UNA Visuales)**
-- **Esp. en Sonido Aplicado a las Artes Digitales (UNA Multimediales)**
-- **Auxiliar en Programación (Teclab)**
-- **Desarrollador de Aplicaciones Web - Node.js (Talento Tech)**
+- **Lic. en Artes Visuales**
+- **Esp. en Sonido Aplicado a las Artes Digitales**
+- **Auxiliar en Programación**
+- **Desarrollador de Aplicaciones Web - Node.js**
 
 ---
 
