@@ -11,7 +11,7 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 ### 👨‍🏫 Docente Universitario
 - Diseño Gráfico
 - Diseño Multimedia
-- Diseño y Desarrollo Web
+- Desarrollo Web
 - Programación
 
 ### 💻 Habilidades Técnicas
