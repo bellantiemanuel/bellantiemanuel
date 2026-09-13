@@ -18,17 +18,12 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 
 **Lenguajes y Frameworks:**
 - `HTML` `CSS` `JavaScript` `React` `Node`
-- `SQLite` `PostgreSQL` `MongoDB` `Firebase`
-- `C++` `Python` `Assembly`
-- `openFrameworks` `JUCE` `MATLAB`
-- `Google Cloud` `AWS` `Docker` `Git`
-
+- `PostgreSQL` `MongoDB`
+- `Python` `C++` `openFrameworks` `JUCE`
+ 
 **Herramientas Creativas & Multimedia:**
-- `Adobe Suite` `Office` `Figma`
-- `OBS Studio` `Blender`
-- `PureData` `SuperCollider` `Reaper`
-- `Arduino` `Raspberry`
-- `macOS` `Linux`
+- `Adobe Suite` `Office365` `Figma` `OBS Studio`
+- `PureData` `SuperCollider` `Reaper` 
   
 ### 🎓 Formación
 - **Lic. en Artes Visuales**
