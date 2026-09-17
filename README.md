@@ -18,7 +18,7 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 
 **Lenguajes y Frameworks:**
 - `HTML` `CSS` `JavaScript` `React` `Node`
-- `SQL` `MongoDB`
+- `SQL` `MongoDB` `Firebase`
 - `Python` `C++` `openFrameworks` `JUCE`
  
 **Herramientas Creativas & Multimedia:**
