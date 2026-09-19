@@ -17,14 +17,16 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 ### 💻 Habilidades Técnicas
 
 **Lenguajes y Frameworks:**
-- `HTML` `CSS` `JavaScript` `React` `Node`
-- `SQL` `MongoDB` `Firebase`
-- `Python` `C++` `openFrameworks` `JUCE`
+- `HTML` `CSS` `Tailwind`
+- `TypeScript` `React` `Node.js`
+- `MongoDB` `SQLite`
+- `Python` `C++` 
+- `openFrameworks` `JUCE`
  
 **Herramientas Creativas & Multimedia:**
-- `Adobe Suite` `Office365` `Figma` `OBS Studio`
-- `PureData` `SuperCollider` `Reaper` 
-  
+- `Adobe Suite` `Office` `OBS Studio`
+- `Reaper` `PureData` `SuperCollider`  
+
 ### 🎓 Formación
 - **Lic. en Artes Visuales**
 - **Esp. en Sonido Aplicado a las Artes Digitales**
