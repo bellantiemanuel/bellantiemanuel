@@ -21,11 +21,11 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 - `React` `Node` `PHP` `Wordpress`
 - `MySQL` `MongoDB`
 - `Python` `C++` 
-- `openFrameworks` `JUCE`
  
 **Herramientas Creativas & Multimedia:**
 - `Adobe Suite` `Office` `OBS Studio`
 - `Reaper` `PureData` `SuperCollider`  
+- `openFrameworks` `JUCE`
 
 ### 🎓 Formación
 - **Lic. en Artes Visuales**
