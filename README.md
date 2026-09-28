@@ -19,8 +19,8 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 **Lenguajes y Frameworks:**
 - `HTML` `CSS` `JavaScript` `TypeScript`
 - `React` `Node` `PHP` `Wordpress`
-- `MySQL` `MongoDB`
 - `Python` `C++` 
+- `MySQL` `MongoDB`
  
 **Herramientas Creativas & Multimedia:**
 - `Adobe Suite` `Office` `OBS Studio`
