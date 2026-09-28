@@ -28,10 +28,10 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 - `openFrameworks` `JUCE`
 
 ### 🎓 Formación
-- **Lic. en Artes Visuales**
-- **Esp. en Sonido Aplicado a las Artes Digitales**
-- **Auxiliar en Programación**
-- **Desarrollador de Aplicaciones Web - Node.js**
+- **Lic. en Artes Visuales** (UNA Visuales)
+- **Esp. en Sonido Aplicado a las Artes Digitales** (UNA Multimediales)
+- **Auxiliar en Programación** (Teclab)
+- **Desarrollador de Aplicaciones Web - Node.js** (Talento Tech)
 
 ---
 
