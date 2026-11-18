@@ -17,8 +17,8 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 ### 💻 Habilidades Técnicas
 
 **Lenguajes y Frameworks:**
-- `HTML` `CSS` `JavaScript` `TypeScript`
-- `React` `Node`
+- `HTML` `CSS` `JavaScript` 
+- `React` `Node` `TypeScript`
 - `Python` `C++` 
 - `MySQL` `MongoDB`
  
