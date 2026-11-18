@@ -37,5 +37,4 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
 ---
 
 ### 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ebellanti/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat)](https://linktr.ee/ebellanti)
