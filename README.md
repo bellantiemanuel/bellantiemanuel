@@ -24,7 +24,7 @@ Busco aportar una mirada creativa al desarrollo de experiencias digitales.
  
 **Herramientas Creativas & Multimedia:**
 - `Adobe Suite` `OBS Studio`
-- `Reaper` `PureData` `SuperCollider`  
+- `PureData` `SuperCollider`  
 - `openFrameworks` `JUCE`
 - `Arduino`
 
